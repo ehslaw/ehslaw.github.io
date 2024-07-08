@@ -211,13 +211,13 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of William Walsh',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: '',
+    twitter: 'WalsheSway',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -235,7 +235,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'Ehslaw0615@gmail.com',
   },
   resume: {
     fileUrl:
@@ -496,7 +496,7 @@ You can customize the meta tags for SEO in `seo`.
 const CONFIG = {
   // ...
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of William Walsh',
     description: '',
     imageURL: '',
   },
@@ -522,8 +522,8 @@ You can link your social media services you're using, including LinkedIn, Twitte
 const CONFIG = {
   // ...
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: '',
+    twitter: 'WalsheSway',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
